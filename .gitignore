@@ -1,0 +1,15 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Visual Studio files
+*.vs
+*.vscode
