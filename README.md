@@ -1,4 +1,4 @@
-# Calculator Windows App — by Dodevca
+# Calculator Windows App
 
 ## About This Project
 A basic calculator application built using C# and Windows Forms (WinForms). This project is a continuation of prior console-based calculator exercises, focused on exploring GUI development, event-driven programming, and form design in desktop applications.
