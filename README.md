@@ -16,7 +16,7 @@ A basic calculator application built using C# and Windows Forms (WinForms). This
 - GUI event handling (buttons, text inputs).
 - Real-time result display in application window.
 
-## Live Demo (optional)
+## Live Demo
 This is a desktop application and must be compiled and run locally using Visual Studio.
 
 ## Installation and Usage (Local Setup)
